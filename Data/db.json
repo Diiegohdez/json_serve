@@ -1,0 +1,111 @@
+{
+    "Productos":[
+        {
+            "id": 1,
+            "name": "Morral Invictus",
+            "price": "120.000",
+            "size": "Grande",
+            "img": "https://i.ibb.co/t8zgtJS/morral-sienna-CU4o4.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Morral Velga",
+            "price": "90.000",
+            "size": "Mediano",
+            "img": "https://i.ibb.co/BV9BFCQ/morral-madrid-c-Qwh-K.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Morral Close",
+            "price": "98.000",
+            "size": "Mediano",
+            "img": "https://i.ibb.co/WpLDqPh/morral-safe-no2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Morral Color",
+            "price": "80.000",
+            "size": "Mediano",
+            "img": "https://i.ibb.co/mtFykb5/morral-esenses-para-portatil-de-hasta-15-bandera-de-colombia-1-7707278178549.webp"
+        },
+        {
+            "id": 5,
+            "name": "Morral Blawer",
+            "price": "50.000",
+            "size": "Pequeño",
+            "img": "https://i.ibb.co/W3ngp9z/morral-donddi-negro-2.webp"
+        },
+        {
+            "id": 6,
+            "name": "Morral Rail",
+            "price": "110.000",
+            "size": "Grande",
+            "img": "https://i.ibb.co/kDNDJHV/morral-deportivo-explora-exploramaletas-camping-porta-laptop-funcional-portatil-camping-pequeno-gris.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Morral Undercolor",
+            "price": "100.000",
+            "size": "Mediano",
+            "img": "https://i.ibb.co/kDNDJHV/morral-deportivo-explora-exploramaletas-camping-porta-laptop-funcional-portatil-camping-pequeno-gris.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Morral Thoor",
+            "price": "115.000",
+            "size": "Grande",
+            "img": "https://i.ibb.co/1r5wBzQ/bolso1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Morral Week",
+            "price": "70.000",
+            "size": "Pequeño",
+            "img": "https://i.ibb.co/rfJY3Jm/1052300.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Morral Art",
+            "price": "65.000",
+            "size": "Pequeño",
+            "img": "https://i.ibb.co/LSyVjff/bolsa-1a.jpg"
+        }
+
+    ],
+
+    "Slider":[
+        {
+            "id": 1,
+            "name":"",
+            "img":""
+        },
+        {
+            "id": 2,
+            "name":"",
+            "img":""
+        },
+        {
+            "id": 3,
+            "name":"",
+            "img":""
+        },
+        {
+            "id": 4,
+            "name":"",
+            "img":""
+        },
+        {
+            "id": 5,
+            "name":"",
+            "img":""
+        }
+
+    ],
+
+    "Texto":[
+        {
+            "text":"ejhurwhgorjowrjtoiuorjiojgiougijwoitgjwroijowjowrjutútp3u0yui350uy0ui9yi5+yiy5iyi59"
+        }
+    ]
+    
+}
