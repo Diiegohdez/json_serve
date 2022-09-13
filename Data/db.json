@@ -75,24 +75,24 @@
 
     "Slider":[
         {
-            "id": 1,
+            "name": "photo1",
             "img":"https://i.ibb.co/tphG25S/Banner1.jpg"
         },
         {
-            "id": 2,
-            "img":""
+            "name": "photo2",
+            "img":"https://i.ibb.co/tphG25S/Banner1.jpg"
         },
         {
-            "id": 3,
-            "img":""
+            "name": "photo3",
+            "img":"https://i.ibb.co/tphG25S/Banner1.jpg"
         },
         {
-            "id": 4,
-            "img":""
+            "name": "photo4",
+            "img":"https://i.ibb.co/tphG25S/Banner1.jpg"
         },
         {
-            "id": 5,
-            "img":""
+            "name": "photo5",
+            "img":"https://i.ibb.co/tphG25S/Banner1.jpg"
         }
 
     ],
